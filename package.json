@@ -1,0 +1,36 @@
+{
+  "name": "lbl-pages",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "lbl-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/leebailin/lbl-pages#readme",
+  "bugs": {
+    "url": "https://github.com/leebailin/lbl-pages/issues"
+  },
+  "license": "MIT",
+  "author": "leebailin",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leebailin/lbl-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
